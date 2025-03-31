@@ -1,4 +1,2 @@
-print([range(2, 34,3)])
-
-x = range(2, 34,3)
-print(x)
+for i in range (2,34,3):
+    print(i + "element value")
